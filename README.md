@@ -37,7 +37,7 @@ Encouraging Nutritious Recipes: This program can encourage wholesome, well-balan
 - **SDG 3: Health and Well-Being** <br>
 Improved Access to Food Information: By informing users about the nutritional value of the meals they cook, the application can assist people in making better dietary choices.
 
-- **8SDG 12:** Responsible Production and Consumption <br>
+- **SDG 12:** Responsible Production and Consumption <br>
 Reducing Food Waste: By making effective use of leftover or overripe ingredients, the app may help users identify recipes utilizing ingredients they already have at home.
 
 ## 🍪 Instructions
